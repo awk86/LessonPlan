@@ -1,0 +1,15 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+main {
+  margin: 30px auto 30px auto;
+  min-width: 475px;
+}
+
+.gallery img {
+  margin: 0;
+  padding: .5em;
+}

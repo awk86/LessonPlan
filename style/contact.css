@@ -1,0 +1,18 @@
+form label {
+  display: block;
+}
+
+input, textarea {
+  padding: 4px;
+  margin-top: 3px;
+}
+
+.form-group {
+  margin-top: 10px;
+}
+
+button {
+  padding: 5px;
+  background-color: lightseagreen;
+  border-radius: 10px;
+}
